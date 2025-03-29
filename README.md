@@ -1,5 +1,7 @@
 # zircon
 
+![logo](docs/imgs/zircon_logo.png)
+
 ## 概要
 
 無限に子タスクを生成できるTODOアプリ。子タスク分解はAIアシストも利用可能。
